@@ -12,6 +12,6 @@ When videos are posted:
 
 I'm currently studying Aerospace Engineering at the University of Southampton and am seeking work in the video games and software industry. Quite clear I love video games but am also interested in motorsports, drumming and ocassionally video editing & VFX.
 
-👨‍💻 Current Project - [Procedural Racetrack Generation](https://github.com/ChickenKorma/Track-Generator) <br>
+👨‍💻 Current Project - [Space Delivery Game](https://github.com/ChickenKorma/Space-Delivery) <br>
 👍 Favourite Project - [Procedural Racetrack Generation](https://github.com/ChickenKorma/Track-Generator) <br>
-🏁 Last Finished Project - [Tag Game with FSM](https://github.com/ChickenKorma/Tag-Game) 
+🏁 Last Finished Project - [Procedural Racetrack Generation](https://github.com/ChickenKorma/Track-Generator)
