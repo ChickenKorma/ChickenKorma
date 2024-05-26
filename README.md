@@ -10,8 +10,8 @@ When videos are posted:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCG1ebn1PvyFYXi7XcfKJoDQ) 
 -->
 
-I'm currently studying Aerospace Engineering at the University of Southampton and am seeking work in the video games and software industry. Quite clear I love video games but am also interested in motorsports, drumming and ocassionally video editing & VFX.
+I'm a graduate software engineer currently developing android auto apps to bring motorsport data visualisation to the wider automotive industry. My introduction to programming, and my other passion alongside motorsports, is developing video games primarily in C# with the Unity game engine.
 
-👨‍💻 Current Project - [Space Delivery Game](https://github.com/ChickenKorma/Space-Delivery) <br>
+👨‍💻 Current Project - [Submarine Horror Game](https://github.com/ChickenKorma/Submarine-Horror-Game) <br>
 👍 Favourite Project - [Procedural Racetrack Generation](https://github.com/ChickenKorma/Track-Generator) <br>
 🏁 Last Finished Project - [Procedural Racetrack Generation](https://github.com/ChickenKorma/Track-Generator)
