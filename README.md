@@ -12,6 +12,6 @@ When videos are posted:
 
 I'm a graduate software engineer currently developing android auto apps to bring motorsport data visualisation to the wider automotive industry. My introduction to programming, and my other passion alongside motorsports, is developing video games primarily in C# with the Unity game engine.
 
-👨‍💻 Current Project - [Submarine Horror Game](https://github.com/ChickenKorma/Submarine-Horror-Game) <br>
-👍 Favourite Project - [Procedural Racetrack Generation](https://github.com/ChickenKorma/Track-Generator) <br>
-🏁 Last Finished Project - [Procedural Racetrack Generation](https://github.com/ChickenKorma/Track-Generator)
+🛠 Current Project - [Submarine Horror Game](https://github.com/ChickenKorma/Submarine-Horror-Game) <br>
+❤️ Favourite Project - [Procedural Racetrack Generation](https://github.com/ChickenKorma/Track-Generator) <br>
+✅ Last Finished Project - [Eavesdropper](https://github.com/ChickenKorma/Eavesdropper)
